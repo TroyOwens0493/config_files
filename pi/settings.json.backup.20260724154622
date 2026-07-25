@@ -3,7 +3,7 @@
   "defaultProvider": "openai-codex",
   "defaultModel": "gpt-5.5",
   "defaultThinkingLevel": "medium",
-  "theme": "github-dark-default",
+  "theme": "tokyo-night",
   "packages": [
     "npm:pi-subagents"
   ],
